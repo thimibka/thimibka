@@ -2,8 +2,7 @@
 <p><em>Full Stack Developper</br>Learning Developpment at <a href="https://www.thehackingproject.org/parcours">The Hacking Project</a>
 </em></p>
 ) 
-[![linkedin Mickaël GERVAIS
-](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gervais-mickael-thimibka/) 
+[![linkedin Mickaël GERVAIS](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gervais-mickael-thimibka/) 
 [![Github thimibka](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://https://github.com/thimibka/)
 
 ## Who I am ?
