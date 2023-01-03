@@ -1,11 +1,22 @@
-<h1 align="center">Bonjour 👋, je suis GERVAIS Mickael</h1>
-<h3 align="center">Jeune développeur</h3>
+## Hi 👋, I'm GERVAIS Mickael !
+<p><em>Full Stack Developper</br>Learning Developpment at <a href="https://www.thehackingproject.org/parcours">The Hacking Project</a>
+</em></p>
+) 
+[![linkedin Mickaël GERVAIS
+](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gervais-mickael-thimibka/) 
+[![Github thimibka](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://https://github.com/thimibka/)
 
-<h3 align="left">Connectez-vous :</h3 >
-<p align="left">
-<a href="https://linkedin.com/in/mickaël gervais" target="blank"><img align="center" src="https://raw.githubusercontent .com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mickaël gervais" height="30" width="40" />< /a>
-<a href="https://discord.gg/Mickael Gervais#1384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mickael Gervais#1384" height="30" width="40" /></a>
+## Who I am ?
+
+- 🥅 2022 Goals: Learn the fundamentals of code !
+- 🌱 I’m currently learning Ruby, Rails and a lot of things
+- 👯 I’m looking to collaborate with other content creators to learn more !
+- ⚡ Fun fact: I love to play video games, and do photography
+
+### Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vim,lua,neovim,ruby,rails,html,css,bootstrap,stackoverflow,ps,ae,pr" />
+  </a>
 </p>
-
-<h3 align="left">Langages et outils :</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com /css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt= "css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href=" https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg " alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/ > </a> <a href="https://développeur.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/ javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/ > </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="réagir" width="40" height="40"/> </a> <a href="https:// www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original .svg" alt="rubis" largeur="40" hauteur="40"/> </a> </p>com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
