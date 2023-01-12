@@ -10,6 +10,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,ruby,rails,html,css,js,react,bootstrap,discord,figma,heroku,linkedin,postgres,sqlite," />
+    <img src="https://skillicons.dev/icons?i=git,github,ruby,rails,html,css,js,react,bootstrap,discord,figma,heroku,linkedin,postgres,sqlite,vscode," />
   </a>
 </p>
